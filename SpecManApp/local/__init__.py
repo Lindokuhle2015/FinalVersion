@@ -1,0 +1,1 @@
+/home/lindo/Desktop/FinalVersion/SpecManApp/__init__.py
