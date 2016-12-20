@@ -8,7 +8,7 @@ Created on Mon Nov 14 09:40:37 2016
 #urls.py ==> SpecManApp Directory
 
 
-from django.conf.urls import patterns, url, include
+from django.conf.urls import url, include
 from SpecManApp import views
 
 urlpatterns = [
