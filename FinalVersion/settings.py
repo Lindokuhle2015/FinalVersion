@@ -34,7 +34,7 @@ SECRET_KEY = ')xqz=0u7k#_f=ni0x9a-#a28^_-tk73rzebu!@t(ynif*qn@fo'
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 # SECURITY WARNING: don't run with debug turned on in production!
 
-ALLOWED_HOSTS = ['https://spcmanapp.herokuapp.com']
+ALLOWED_HOSTS = ('https://spcmanapp.herokuapp.com')
 #https://spcmanapp.herokuapp.com
 
 DEBUG = False
