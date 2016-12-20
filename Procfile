@@ -1,1 +1,1 @@
-web: gunicorn SpecManApp.wsgi --log-file -
+web: gunicorn FinalVersion.wsgi --log-file -
